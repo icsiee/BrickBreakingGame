@@ -16,7 +16,6 @@ sonraki oyun başlamalıdır. Bir sonraki yere geçildiğinde skorbord ekranı s
 Oyun, topun alt kısmından düşmesi durumunda sona erer.
 
 
-![Devre Şeması](C:\Users\iclal dere\OneDrive\Desktop\koü\bahar 2\programlama 2\2.proje\devre.png)
 
 
 
