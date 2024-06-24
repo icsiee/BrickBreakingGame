@@ -1,3 +1,6 @@
+# Mikrodenetleyici Tabanlı Oyun Makinesi
+
+## Proje Amacı
 Bu projenin amacı, çeşitli araçlar kullanarak mikrodenetleyici tabanlı bir oyun makinesi
 geliştirmektir.
 Oyuncu, bir fiziksel palet kontrol cihazını kullanarak bir topu yansıtarak OLED
@@ -11,3 +14,11 @@ duvarlara çarptığında yönü değişir. Ekranın sağ ve sol taraflarıda bi
 Oyun başarılı bir şekilde biterse topun önceki hızına göre yüzde 20 fazla olacak şekilde bir
 sonraki oyun başlamalıdır. Bir sonraki yere geçildiğinde skorbord ekranı sıfırlanmamalıdır.
 Oyun, topun alt kısmından düşmesi durumunda sona erer.
+
+
+![Devre Şeması](C:\Users\iclal dere\OneDrive\Desktop\koü\bahar 2\programlama 2\2.proje\devre.png)
+
+
+
+
+
