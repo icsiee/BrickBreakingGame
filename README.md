@@ -16,7 +16,7 @@ sonraki oyun başlamalıdır. Bir sonraki yere geçildiğinde skorbord ekranı s
 Oyun, topun alt kısmından düşmesi durumunda sona erer.
 
 
-
+![devre](https://github.com/icsiee/BrickBreakingGame/assets/122745583/bc437e89-d8b7-4e6c-aa49-2dbc8fd11828)
 
 
 
