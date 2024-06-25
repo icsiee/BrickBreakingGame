@@ -21,10 +21,3 @@ Oyun, topun alt kısmından düşmesi durumunda sona erer.
 ```sh
 git clone https://github.com/icsiee/BrickBreakingGame.git
 cd BrickBreakingGame
-
-
-
-
-
-
-
